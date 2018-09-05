@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background-image:url("https://pre00.deviantart.net/1ff6/th/pre/f/2013/108/1/0/floral_background__green_silver_grey_black__by_shadowweaver97-d627o19.png");
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -30,6 +30,8 @@ body {
   width: 100%;
 }
 
+.container {
+	background-image: url("http://www.nohr.dk/blog/wp-content/uploads/background-textured-green-gonna-need-bit-more-detail-than-that-wallpaper.jpg")
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
