@@ -1,5 +1,5 @@
 ---
-title: Year 9 Week One
+title: Year 9 week one
 layout: post
 author: amar.bawa
 permalink: /year-9-week-one/
