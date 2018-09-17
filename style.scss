@@ -18,11 +18,14 @@ html {
 }
 
 body {
-	background-image:url("https://pre00.deviantart.net/1ff6/th/pre/f/2013/108/1/0/floral_background__green_silver_grey_black__by_shadowweaver97-d627o19.png");
+	");
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
+body {
+    background-color: lightblue;
+}
 .container {
   margin: 0 auto;
   max-width: 740px;
