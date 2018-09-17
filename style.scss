@@ -18,14 +18,12 @@ html {
 }
 
 body {
-	");
+	background-color: lightblue;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
-body {
-    background-color: lightblue;
-}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -34,7 +32,7 @@ body {
 }
 
 .container {
-	background-image: url("http://www.nohr.dk/blog/wp-content/uploads/background-textured-green-gonna-need-bit-more-detail-than-that-wallpaper.jpg")
+	background-color: darkblue; 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
