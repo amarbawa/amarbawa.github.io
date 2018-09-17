@@ -1,5 +1,5 @@
 ---
-title: Week Two
+title: blog template
 layout: post
 author: amar.bawa
 permalink: /blog-template/
