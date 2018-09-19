@@ -1,5 +1,14 @@
 ---
-title: Year 9 week one
+title: Building Blogs
+
+
+
+
+
+
+
+
+
 layout: post
 author: amar.bawa
 permalink: /year-9-week-one/
