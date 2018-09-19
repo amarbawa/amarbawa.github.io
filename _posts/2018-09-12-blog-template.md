@@ -1,5 +1,5 @@
 ---
-title: blog template
+title: Encryption and Cryptography
 layout: post
 author: amar.bawa
 permalink: /blog-template/
